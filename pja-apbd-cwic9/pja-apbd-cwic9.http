@@ -1,0 +1,6 @@
+@pja_apbd_cwic9_HostAddress = http://localhost:5003
+
+GET {{pja_apbd_cwic9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
